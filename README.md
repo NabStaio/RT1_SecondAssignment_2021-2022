@@ -189,7 +189,7 @@ Nodes' Connection
 This is an image that show how nodes are connected to each other (thanks to the command rosrun rqt_graph rqt_graph):
 
 <p align="center">
-<img src="https://github.com/NabStaio/RT1_SecondAssignment_2021-2022/blob/main/images/rosgraph.png" width="700" height="150">
+<img src="https://github.com/NabStaio/RT1_SecondAssignment_2021-2022/blob/main/images/rosgraph.png" width="900" height="150">
 </p>
 
 
